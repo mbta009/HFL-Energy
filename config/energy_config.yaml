@@ -1,0 +1,22 @@
+default:
+  n_flop: 1
+  p_transmission: 1
+  h: 1
+  n_0: 2
+  b: 3
+  frequency: 2
+  sign: 1
+  utilization: 1
+  dvfs_gpu: false
+  c_gpu: 0
+  dvfs_cpu: false
+  c_cpu: 1
+  gpu: false
+
+client_1:
+  b: 10.24
+  frequency: 12.4
+
+client_4:
+  b: 20.24
+  sign: 141

@@ -1,0 +1,7 @@
+default:
+  NFlop: 1
+  PTransmission: 1
+  h: 1
+  N0: 2
+  B: 3
+  gpu: false
