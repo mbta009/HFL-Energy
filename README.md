@@ -64,7 +64,7 @@
     <img src="images/HFL-Energy-FL.png" alt="Logo">
     <img src="images/HFL.jpg" alt="Logo">
   </a>
-
+</div>div align="center">
 <!-- HIERARCHICAL FEDERATED LEARNING -->
 ## Hierarchical Federated Learning (HierFL)
 
