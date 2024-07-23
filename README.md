@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images/logo2.png" alt="Logo">
+    <img src="images/logo1.png" alt="Logo">
   </a>
 
   <h3 align="center">Hierarchical Federated Learning</h3>
