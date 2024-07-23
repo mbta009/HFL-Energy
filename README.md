@@ -10,7 +10,7 @@
     <img src="images/logo2.png" alt="Logo" width="750" height="462" >
   </a>
 
-  <h3 align="center">Hierarchical Federated Learning</h3>
+  <h1 align="center">Hierarchical Federated Learning</h1>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
