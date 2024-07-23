@@ -58,18 +58,14 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## Overview
+Hierarchical Federated Learning (HierFL) is an approach that extends traditional Federated Learning (FL) by introducing an additional layer of aggregation. Instead of a direct client-to-cloud aggregation, clients first aggregate their models at edge servers, and then the aggregated models are further aggregated at the cloud server. This hierarchical structure aims to reduce communication costs and improve scalability. Since the model training process takes place on user devices, and training tasks consume significant energy, it is important to manage the energy consumption of user devices, especially those that operate on batteries. The energy consumed on user devices includes both the energy used for model training and the energy required for uploading data over wireless communication networks.
 
   <a href="">
     <img src="images/HFL.jpg" alt="Logo">
   </a>
 <!-- HIERARCHICAL FEDERATED LEARNING -->
 ## Hierarchical Federated Learning (HierFL)
-
-### Overview
-
-Hierarchical Federated Learning (HierFL) is an approach that extends traditional Federated Learning (FL) by introducing an additional layer of aggregation. Instead of a direct client-to-cloud aggregation, clients first aggregate their models at edge servers, and then the aggregated models are further aggregated at the cloud server. This hierarchical structure aims to reduce communication costs and improve scalability.
 
 ### Algorithm Flow
 
