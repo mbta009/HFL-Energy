@@ -13,7 +13,7 @@
   <h1 align="center">Federated Learning Framework for Energy Usage of Clients Analysis</h1>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    "An awesome simulation tool to jumpstart your optimization algorithms for analyzing clients' energy usage in federated learning!"
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -59,12 +59,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align="center">
   <a href="">
-    <img src="images/HFL-Energy-FL.png" alt="Logo">
     <img src="images/HFL.jpg" alt="Logo">
   </a>
-</div>div align="center">
 <!-- HIERARCHICAL FEDERATED LEARNING -->
 ## Hierarchical Federated Learning (HierFL)
 
