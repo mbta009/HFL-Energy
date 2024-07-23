@@ -10,10 +10,10 @@
     <img src="images/logo2.png" alt="Logo" width="750" height="462" >
   </a>
 
-  <h1 align="center">Federated Learning Framework for Energy Usage of Clients Analysis</h1>
+  <h1 align="center">Framework for Analyzing Client Energy Consumption in Federated Learning</h1>
 
   <p align="center">
-    An awesome simulation tool to jumpstart your optimization algorithms for analyzing clients' energy usage in federated learning!
+    An awesome simulation tool to jumpstart your optimization algorithms for analyzing client energy consumption in federated learning!
     <br />
     "HFL-Energy is based on the <a href="https://github.com/LuminLiu/HierFL"><strong>HierFL</strong></a> framework"
     <br />
