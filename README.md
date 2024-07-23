@@ -16,6 +16,7 @@
     An awesome simulation tool to jumpstart your optimization algorithms for analyzing clients' energy usage in federated learning!
     <br />
     HFL-Energy is based on the <a href="https://github.com/othneildrew/Best-README-Template"><strong>HierFL</strong></a> framework
+    <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
