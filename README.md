@@ -15,16 +15,16 @@
   <p align="center">
     An awesome simulation tool to jumpstart your optimization algorithms for analyzing clients' energy usage in federated learning!
     <br />
-    HFL-Energy is based on the <a href="https://github.com/othneildrew/Best-README-Template"><strong>HierFL</strong></a> framework
+    "HFL-Energy is based on the <a href="https://github.com/LuminLiu/HierFL"><strong>HierFL</strong></a> framework"
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href=""><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="">Request Feature</a>
   </p>
 </div>
 
