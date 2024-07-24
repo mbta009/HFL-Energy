@@ -15,9 +15,9 @@
   <p align="center">
     An awesome simulation tool to jumpstart your optimization algorithms for analyzing client energy consumption in federated learning!
     <br />
-    "HFL-Energy is based on the <a href="https://github.com/LuminLiu/HierFL"><strong>HierFL</strong></a> framework"
-    <br />
     "According to the HierFAVG algorithm in <a href="https://github.com/LuminLiu/HierFL">'Client-Edge-Cloud Hierarchical Federated Learning'</a> with PyTorch"
+    <br />
+    "HFL-Energy is based on the <a href="https://github.com/LuminLiu/HierFL"><strong>HierFL</strong></a> framework"
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
