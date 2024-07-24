@@ -67,13 +67,11 @@ Hierarchical Federated Learning (HierFL) is an approach that extends traditional
 <br />
 <img src="images/HFL.jpg" alt="Logo">
 <!-- HIERARCHICAL FEDERATED LEARNING -->
-## Hierarchical Federated Learning (HierFL)
-
 ### Algorithm Flow
 
-1. **Client Update (`t_1`)**: Clients perform local updates using their own data.
-2. **Edge Aggregate (`t_2`)**: Clients send their updated models to the edge server, which aggregates these models.
-3. **Cloud Aggregate (`t_3`)**: Edge servers send their aggregated models to the cloud server, which performs a final aggregation.
+1. **Client Update**: Clients perform local updates using their own data.
+2. **Edge Aggregate**: Clients send their updated models to the edge server, which aggregates these models.
+3. **Cloud Aggregate**: Edge servers send their aggregated models to the cloud server, which performs a final aggregation.
 
 ### Code Structure
 
