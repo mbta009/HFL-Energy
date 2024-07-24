@@ -17,7 +17,7 @@
     <br />
     "HFL-Energy is based on the <a href="https://github.com/LuminLiu/HierFL"><strong>HierFL</strong></a> framework"
     <br />
-    "According to the HierFAVG algorithm in 'Client-Edge-Cloud Hierarchical Federated Learning' with PyTorch"
+    "According to the HierFAVG algorithm in <a href="https://github.com/LuminLiu/HierFL">'Client-Edge-Cloud Hierarchical Federated Learning'</a> with PyTorch"
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
