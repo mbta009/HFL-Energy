@@ -67,6 +67,7 @@ Hierarchical Federated Learning (HierFL) is an approach that extends traditional
 <br />
 <img src="images/HFL.jpg" alt="Logo">
 <!-- HIERARCHICAL FEDERATED LEARNING -->
+
 ### Algorithm Flow
 
 1. **Client Update**: Clients perform local updates using their own data.
